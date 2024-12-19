@@ -2053,7 +2053,7 @@
 
 ### Bug Fixes
 
-* allow specifiying maxOutboundStreams in connection.newStream ([#1817](https://www.github.com/libp2p/js-libp2p/issues/1817)) ([b348fba](https://www.github.com/libp2p/js-libp2p/commit/b348fbaa7e16fd40f9a93e83a92c8152ad9e97e9))
+* allow specifying maxOutboundStreams in connection.newStream ([#1817](https://www.github.com/libp2p/js-libp2p/issues/1817)) ([b348fba](https://www.github.com/libp2p/js-libp2p/commit/b348fbaa7e16fd40f9a93e83a92c8152ad9e97e9))
 
 ### [0.45.8](https://www.github.com/libp2p/js-libp2p/compare/libp2p-v0.45.7...libp2p-v0.45.8) (2023-06-14)
 
